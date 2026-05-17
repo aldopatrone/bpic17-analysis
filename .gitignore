@@ -1,0 +1,17 @@
+# OS 
+.DS_Store
+*.swp
+
+# Python 
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+
+# Event log 
+data/bpic17_filtered.pkl
+data/BPI Challenge 2017.xes
+
+# Notebook-generated outputs
+results/
+models/
